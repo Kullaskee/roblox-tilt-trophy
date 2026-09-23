@@ -2,7 +2,7 @@
 
 3d printable Roblox tilt trophy, because Roblox stopped sending these out.
 
-I have 100+ games that qualify for one, so I wanted to recreate it. Made in Blender using photos of my trophy with a ruler to get it as close as possible.
+I wanted to recreate it. Made in Blender using photos of my trophy with a ruler to get it as close as possible. Too lazy to buy a digital scanner or digital calipers
 
 ![Trophy preview](previews/assembled.png)
 
@@ -31,6 +31,6 @@ Save a copy in a separate folder for each game. The export script writes the pri
 
 ## Dimensions
 
-These are estimates from the photos, so don't expect a perfect fit with original trophy parts.
+These are estimates from the photos, so don't expect a perfect fit with original trophy parts. I have a scan of my trophy if someone really cares to make it perfect, just hmu for it.
 
 ![Trophy dimensions](previews/dimensions.png)
